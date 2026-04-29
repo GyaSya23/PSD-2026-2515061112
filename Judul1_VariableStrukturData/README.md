@@ -7,7 +7,7 @@ Tujuan program ini dibuat adalah untuk mengelola data nilai mahasiswa dalam bebe
 Algoritma yang digunakan adalah struktur data array 2 dimensi (List 2D) dengan konsep pengolahan data berbasis indeks. Program mampu melakukan input data, menampilkan data, menghitung rata-rata per baris (mahasiswa), rata-rata per kolom (mata kuliah), serta mencari nilai maksimum dalam seluruh data.
 ## c. Source Code
 <img width="531" height="265" alt="Screenshot 2026-04-29 224808" src="https://github.com/user-attachments/assets/9839b65a-2260-41e1-bb7f-27ca4d58427e" />
-<img width="633" height="394" alt="Screenshot 2026-04-29 233352" src="https://github.com/user-attachments/assets/2898d2e3-15ee-49bd-97d7-e044c9ff2408" />
+<img width="634" height="404" alt="Screenshot 2026-04-29 233623" src="https://github.com/user-attachments/assets/851d829a-8752-48bb-b572-618498f2989d" />
 <img width="478" height="343" alt="Screenshot 2026-04-29 224252" src="https://github.com/user-attachments/assets/c4cdfa80-5723-430c-8104-b60cc28d69e4" />
 <img width="642" height="252" alt="Screenshot 2026-04-29 224311" src="https://github.com/user-attachments/assets/46b61371-f6ea-4df8-b73c-58e7ca95151a" />
 
