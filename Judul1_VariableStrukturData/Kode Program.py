@@ -12,7 +12,7 @@ def main():
     mahasiswa = 3
     matkul = 3
 
-    nilai = [[0 for _ in range(matkul)] for _ in range(mahasiswa)]
+    nilai = [[0 for j in range(matkul)] for i in range(mahasiswa)]
 
     while True:
         menu()
