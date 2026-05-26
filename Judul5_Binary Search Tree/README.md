@@ -167,3 +167,5 @@ Jika input tidak valid, program akan menampilkan pesan error.
 Program akan berhenti ketika user memilih menu keluar.
 
 ## e. Link YouTube
+
+https://youtu.be/afw42dCfbdM
