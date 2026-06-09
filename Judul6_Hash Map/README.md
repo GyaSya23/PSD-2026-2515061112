@@ -103,7 +103,7 @@ Ketiga data tersebut akan masuk ke bucket yang sama.
 
 #### 12. Validasi Input
 
-* Menggunakan `try-except`
+* Menggunakan try-except
 * Jika NIM bukan angka maka program menampilkan pesan error
 * Input diminta kembali sampai valid
 
@@ -142,3 +142,4 @@ Worst case terjadi ketika banyak data berada dalam bucket yang sama sehingga Lin
 * Saat memilih keluar, program akan berhenti
 
 ## e. Link YouTube
+https://youtu.be/E8nJx8Gs57s?si=XpJ3hdy8DutInGYY
