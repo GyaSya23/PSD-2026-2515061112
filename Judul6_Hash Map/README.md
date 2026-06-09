@@ -12,7 +12,11 @@ Algoritma yang digunakan adalah Hash Map dengan metode Separate Chaining untuk m
 
 ## c. Source Code
 
-*(Masukkan screenshot source code di sini)*
+<img width="486" height="666" alt="Screenshot 2026-06-09 213944" src="https://github.com/user-attachments/assets/c0f18dc5-08f3-42c7-8ffd-28dec13d7d7c" />
+<img width="613" height="612" alt="Screenshot 2026-06-09 213959" src="https://github.com/user-attachments/assets/4073f57d-05ac-42cf-9ae3-aa31516bc5c5" />
+<img width="660" height="621" alt="Screenshot 2026-06-09 214014" src="https://github.com/user-attachments/assets/a685a996-e5e5-43d6-a6d0-4e795527ada9" />
+<img width="724" height="414" alt="Screenshot 2026-06-09 214027" src="https://github.com/user-attachments/assets/c1d5657c-c203-45ba-8bf4-791dede108be" />
+
 
 ### Penjelasan Kode
 
@@ -21,17 +25,17 @@ Algoritma yang digunakan adalah Hash Map dengan metode Separate Chaining untuk m
 * Digunakan untuk membuat node pada Linked List
 * Memiliki atribut:
 
-  * `key` → menyimpan NIM mahasiswa
-  * `value` → menyimpan nama mahasiswa
-  * `next` → menunjuk ke node berikutnya
+  * key = menyimpan NIM mahasiswa
+  * value = menyimpan nama mahasiswa
+  * next = menunjuk ke node berikutnya
 
 #### 2. Class `HashMapSeparateChaining`
 
 * Digunakan untuk mengelola seluruh operasi Hash Map
 * Memiliki komponen:
 
-  * `SIZE` → ukuran Hash Table
-  * `table` → array yang menyimpan bucket
+  * SIZE = ukuran Hash Table
+  * table = array yang menyimpan bucket
 
 #### 3. Fungsi `hash_function()`
 
@@ -66,7 +70,7 @@ Algoritma yang digunakan adalah Hash Map dengan metode Separate Chaining untuk m
 
 #### 8. Fungsi `main()`
 
-* Menggunakan perulangan `while True`
+* Menggunakan perulangan while True
 * Menampilkan menu utama program
 * Program berjalan sampai user memilih keluar
 
@@ -91,9 +95,9 @@ Algoritma yang digunakan adalah Hash Map dengan metode Separate Chaining untuk m
 
 Contoh:
 
-* `101 % 5 = 1`
-* `106 % 5 = 1`
-* `111 % 5 = 1`
+* 101 % 5 = 1
+* 106 % 5 = 1
+* 111 % 5 = 1
 
 Ketiga data tersebut akan masuk ke bucket yang sama.
 
@@ -121,7 +125,11 @@ Worst case terjadi ketika banyak data berada dalam bucket yang sama sehingga Lin
 
 ## d. Output Program
 
-*(Masukkan screenshot output program di sini)*
+<img width="386" height="689" alt="Screenshot 2026-06-09 214858" src="https://github.com/user-attachments/assets/a9c19daa-2922-4585-a4f7-a840a0609bdb" />
+<img width="469" height="687" alt="Screenshot 2026-06-09 214906" src="https://github.com/user-attachments/assets/cf9c69f6-56e5-4296-bf2f-bc01e1c02cf3" />
+<img width="395" height="677" alt="Screenshot 2026-06-09 214916" src="https://github.com/user-attachments/assets/c89ffe56-9939-40d6-857f-29f3d9610931" />
+<img width="277" height="259" alt="Screenshot 2026-06-09 214921" src="https://github.com/user-attachments/assets/c0854562-0643-4fe9-bc72-f67583788bc0" />
+
 
 ### Penjelasan Output
 
